@@ -4,7 +4,7 @@ Online Job Management System
 
 An open-source Online Job Portal built using Python and the Django framework. This application connects job seekers with employers, allowing companies to post job openings and candidates to search and apply for suitable jobs. An administrator manages users, jobs, and overall portal operations.
 
-🔗 Live Demo: Demo
+
 
 🚀 Features
 👨‍💼 Job Seeker
