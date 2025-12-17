@@ -1,28 +1,69 @@
-<<<<<<< HEAD
-## Django Job Portal
+🧑‍💼 Django Job Portal
 
-#### An open source online job portal.
+Online Job Management System
 
-Live: [Demo](https://django-portal.herokuapp.com/)
+An open-source Online Job Portal built using Python and the Django framework. This application connects job seekers with employers, allowing companies to post job openings and candidates to search and apply for suitable jobs. An administrator manages users, jobs, and overall portal operations.
 
-Used Tech Stack
+🔗 Live Demo: Demo
 
-1. Django
-2. Sqlite
+🚀 Features
+👨‍💼 Job Seeker
 
-### Screenshots
+Register and log in
 
-## Home page
-<img src="screenshots/one.png" height="800">
+Search for available jobs
 
-## Add new position as employer
-<img src="screenshots/two.png" height="800">
+View job details
 
-## Job details
-<img src="screenshots/three.png" height="800">
+Apply for jobs online
 
-Show your support by 🌟 the project!!
-=======
-# Online-Job-Management-System
+🏢 Employer
+
+Register and log in
+
+Add new job positions
+
+Manage posted jobs
+
+View applicants for each job
+
+🛠️ Administrator
+
+Manage users (job seekers & employers)
+
+Manage job postings
+
+Control overall portal operations
+
+🧰 Tech Stack Used
+
+Backend: Python, Django
+
+Database: SQLite
+
+Frontend: HTML, CSS, JavaScript
+
+🖼️ Screenshots
+🏠 Home Page
+
+(Displays latest job listings and search options)
+
+➕ Add New Position (Employer)
+
+(Employers can post new job vacancies)
+
+📄 Job Details
+
+(Detailed job description with apply option)
+
+📌 Project Description
+
 The Online Job Portal is a dynamic web application built using Python and the Django framework. It allows job seekers to search and apply for jobs, while companies can post vacancies and find suitable candidates. An administrator manages users, jobs, and overall portal operations.
->>>>>>> 2567c0e7801149901cb54b1ed3e1812a801d17f2
+
+❤️ Support
+
+If you like this project, please consider giving it a ⭐ star to show your support!
+
+📄 License
+
+This project is open source and intended for learning and educational purposes.
